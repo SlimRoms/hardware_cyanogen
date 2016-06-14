@@ -57,7 +57,7 @@ public class ColorEnhancement {
             return Integer.parseInt(FileUtils.readOneLine(FILE_CE)) > 0;
         } catch (Exception e) {
             Log.e(TAG, e.getMessage(), e);
-        }   
+        }
         return false;
     }
 
