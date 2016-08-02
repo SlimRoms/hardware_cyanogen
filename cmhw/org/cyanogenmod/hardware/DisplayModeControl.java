@@ -18,7 +18,7 @@ package org.cyanogenmod.hardware;
 
 import android.util.Log;
 
-import org.cyanogenmod.hardware.DisplayMode;
+import org.slim.hardware.DisplayMode;
 
 /*
  * Display Modes API
